@@ -1,4 +1,4 @@
-# kaitygdixon.github.io
-Kaity Dixon, MPH, Data Scientist
+
+# Kaity Dixon, MPH, Data Scientist
 
 Public health and data analytics professional with an MPH, a data science professional certificate, and hands-on experience analyzing health, policy, and community data to support decision-making. Skilled in Python, R, SQL, Excel, Tableau, Power BI, data cleaning, dashboard development, literature synthesis, and translating complex findings for nontechnical audiences. Brings a strong interdisciplinary background in public health, social science, program evaluation, healthcare systems, maternal and child health, quality improvement, and stakeholder communication. Seeking health data analyst, quality analyst, public health analyst, program evaluation, or quality improvement roles where rigorous analysis can improve health outcomes, operational effectiveness, and evidence-based decision-making.
