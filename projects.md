@@ -9,5 +9,5 @@ Analyzed maternal death records from refugee camp clinics. Extracted structured 
 ## Youth Activity Nights Analysis
 Built a web-scraping and calendar analysis notebook to identify the best weeknight for youth group scheduling based on local school sports calendars. 
 
-[View the projectrepository](https://github.com/kaitygdixon/SchoolActivityNights)
+[View the project repository](https://github.com/kaitygdixon/SchoolActivityNights)
 
