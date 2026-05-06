@@ -1,4 +1,5 @@
 # Kaity Dixon
+[Home](./) | [CV](./cv.md) | [Projects](./projects.md)
 **Public Health Data Analyst | MPH | Data Science Certificate**  
 Fredericksburg, VA  
 [Email](kaitygdixon@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kaitlyn-dixon-a60b3131/) | [GitHub](https://github.com/kaitygdixon)
