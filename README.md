@@ -1,5 +1,5 @@
 
-# Kaity Dixon, Data Scientist, MPH, Anthropologist
+# Data Scientist, MPH, Anthropologist
 
 Seeking health data analyst, quality analyst, public health analyst, program evaluation, or quality improvement roles where rigorous analysis can improve health outcomes, operational effectiveness, and evidence-based decision-making.
 
