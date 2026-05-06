@@ -1,3 +1,4 @@
+[Home](./) | [CV](./cv.md) | [Projects](./projects.md)
 
 # Data Scientist, MPH, Anthropologist
 
